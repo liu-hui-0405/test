@@ -1,3 +1,7 @@
 hello
 hello 22222
+<<<<<<< HEAD
 hello 33333  master
+=======
+hello 33333  master
+>>>>>>> hot-fix
